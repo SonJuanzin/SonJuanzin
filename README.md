@@ -1,13 +1,13 @@
-👋 Olá! Meu nome é SonJuan e estou em busca de me tornar um programador de sucesso! 💻
+**👋 Olá! Meu nome é SonJuan e estou em busca de me tornar um programador de sucesso! 💻**
 
-Formação Futura: Técnico em Informática 👾💻 
+**Formação Futura: Técnico em Informática 👾💻 **
 
-Instituição: CTISM, UFSM. 📚🎓✨
+**Instituição: CTISM, UFSM. 📚🎓✨**
 
 Descrição Geral: Estou me especializando na área de Técnico em Informática pelo CTISM, na UFSM. Tenho grande interesse em ser capaz de realizar: algoritmos eficiente, 
 desenvolvimento de interfaces intuitivas e computação de alto desempenho. Meu objetivo é criar softwares de qualidade, que sejam funcionais e esteticamente atraentes.
 
-Estudos atuais:
+**Estudos atuais:**
 
 ◉ Desenvolvimento de interfaces intuitivas
 
@@ -15,7 +15,7 @@ Estudos atuais:
 
 ◉ Computação de alto desempenho
 
-Linguagens de Programação que estudo atualmente (Áreas Técnicas Inclusas):
+**Linguagens de Programação que estudo atualmente (Áreas Técnicas Inclusas):**
 
 ◉ Python
 
@@ -27,7 +27,7 @@ Linguagens de Programação que estudo atualmente (Áreas Técnicas Inclusas):
 
 ◉ CSS
 
-Pessoal:
+**Pessoal:**
 Além da minha dedicação aos estudos e à programação, tenho interesses em outras áreas, incluindo:
 
 🎧🔊 Música: Aprecio ouvir músicas de diversos estilos, principalmente quando estou programando algo.
