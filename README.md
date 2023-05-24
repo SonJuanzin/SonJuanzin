@@ -3,7 +3,8 @@
 Formação Futura: Técnico em Informática 👾💻
 Instituição: CTISM, UFSM. 📚🎓✨
 
-Descrição Geral: Estou me especializando na área de Técnico em Informática pelo CTISM, na UFSM. Tenho grande interesse em ser capaz de realizar o desenvolvimento de interfaces intuitivas, algoritmos eficientes e computação de alto desempenho. Meu objetivo é criar softwares de qualidade, que sejam funcionais e esteticamente atraentes.
+Descrição Geral: Estou me especializando na área de Técnico em Informática pelo CTISM, na UFSM. Tenho grande interesse em ser capaz de realizar: algoritmos eficiente, 
+desenvolvimento de interfaces intuitivas e computação de alto desempenho. Meu objetivo é criar softwares de qualidade, que sejam funcionais e esteticamente atraentes.
 
 Estudos atuais:
 
