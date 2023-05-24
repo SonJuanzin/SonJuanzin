@@ -33,3 +33,5 @@ Além da minha dedicação aos estudos e à programação, tenho interesses em o
 🎧🔊 Música: Aprecio ouvir músicas de diversos estilos, principalmente quando estou programando algo.
 
 🎬🍿 Série Favorita: "Bungou Stray Dogs" é minha série preferida, com sua trama intrigante e personagens bem desenvolvidos.
+
+![gifs-de-anime-lofi-9](https://github.com/SonJuanzin/SonJuanzin/assets/133765845/154e6e3d-ce12-487b-8f8c-a4b8b0e85a1f)
