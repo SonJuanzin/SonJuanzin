@@ -1,6 +1,6 @@
 **👋 Olá! Meu nome é SonJuan e estou em busca de me tornar um programador de sucesso! 💻**
 
-**Formação Futura: Técnico em Informática 👾💻 **
+**Formação Futura: Técnico em Informática 👾💻**
 
 **Instituição: CTISM, UFSM. 📚🎓✨**
 
