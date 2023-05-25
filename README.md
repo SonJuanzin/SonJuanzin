@@ -1,5 +1,3 @@
-![6839c035-1ad1-418b-af92-b817a70075f3](https://github.com/SonJuanzin/SonJuanzin/assets/133765845/d9313895-2e31-4ab7-84ab-705ac348756a)
-
 **👋 Olá! Meu nome é SonJuan e estou em busca de me tornar um programador de sucesso! 💻**
 
 **Formação Futura: Técnico em Informática 👾💻**
@@ -36,4 +34,4 @@ Além da minha dedicação aos estudos e à programação, tenho interesses em o
 
 🎬🍿 Série Favorita: "Bungou Stray Dogs" é minha série preferida, com sua trama intrigante e personagens bem desenvolvidos.
 
-![baixados (12)](https://github.com/SonJuanzin/SonJuanzin/assets/133765845/e727b4bd-563b-4906-91e5-076afb319edf)
+![6839c035-1ad1-418b-af92-b817a70075f3](https://github.com/SonJuanzin/SonJuanzin/assets/133765845/d9313895-2e31-4ab7-84ab-705ac348756a)
