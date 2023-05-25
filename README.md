@@ -21,8 +21,6 @@ desenvolvimento de interfaces intuitivas e computação de alto desempenho. Meu 
 
 ◉ C
 
-◉ Java
-
 ◉ HTML
 
 ◉ CSS
